@@ -1,0 +1,28 @@
+name: paulabrum
+favicon: null
+layout_spectrum: 0.38464309996925294
+typography_spectrum: 0.5810948386788368
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.2772039610426873
+  lightness: 0.27613245672546327
+  saturation: 0.6737314220517874
+  rhythmicContrast: 0.9865479706786573
+purpose: []
