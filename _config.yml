@@ -1,7 +1,7 @@
 name: paulabrum
 favicon: null
-layout_spectrum: 0.38464309996925294
-typography_spectrum: 0.5810948386788368
+layout_spectrum: 0.41956
+typography_spectrum: 0.58885
 title: Paula Brum Photography
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.2772039610426873
-  lightness: 0.27613245672546327
-  saturation: 0.6737314220517874
+    - '#8790a1'
+    - '#000000'
+    - '#232011'
+    - '#555f71'
+    - '#d5dbf5'
+  brandStrength: 0.3125
+  lightness: 0.25
+  saturation: 0.6875
   rhythmicContrast: 0.9865479706786573
 purpose: []
