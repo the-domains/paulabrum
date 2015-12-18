@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-12-18T11:56:50.303Z'
-dateModified: '2015-12-18T11:55:59.040Z'
+description: Campos dos Goytacazes - RJ
+datePublished: '2015-12-18T11:59:02.533Z'
+dateModified: '2015-12-18T11:58:42.582Z'
 title: Casamento Flávia e Francisco
 author: []
+sourcePath: _posts/2015-12-18-casamento-flavia-e-francisco.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-18-casamento-flavia-e-francisco.md
-published: true
 url: casamento-flavia-e-francisco/index.html
 _type: Article
 
