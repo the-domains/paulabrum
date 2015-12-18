@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Paula Brum Photography]]></title>
+        <description><![CDATA[Paula Brum Photography]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 18 Dec 2015 11:54:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Casamento Flávia e Francisco]]></title>
+            <description><![CDATA[<article><h1>Casamento Flávia e Francisco</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/579e468afafbef60578a1a291503539591c8552f.jpg"></article>]]></description>
+            <link>undefinedcasamento-flavia-e-francisco/index.html</link>
+            <guid isPermaLink="false">c321af56-03fa-4e5c-b645-f66a6718ccc6</guid>
+            <pubDate>Fri, 18 Dec 2015 11:54:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
